@@ -1,0 +1,15 @@
+.Profile .col-md-4 { 
+    margin-bottom: 20px; 
+}
+
+.Profile figure img { 
+    width: 100%; 
+    max-width: 246px; 
+    height: auto; 
+}
+
+@media (max-width: 767px) { 
+    #Profile .col-md-4 * { 
+        text-align: center; 
+    }
+}

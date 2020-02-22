@@ -1,0 +1,46 @@
+{
+    "title": "Projects",
+    "quote": "Implementation beats oration.",
+    "author": "Aesop",
+    "projects": [
+        {"title": "Predictions Frontend",
+        "description": "Frontend project to show and compare weather forecasts from multple regions.",
+        "stack": [
+            "React",
+            "Redux",
+            "Javascript",
+            "CSS"
+        ],
+        "image": "/images/Prediccions-Frontend.jpg",
+        "url": "https://github.com/EZAMN/Prediccio-Frontend"},
+        {"title": "Predictions Backend",
+        "description": "Backend project to return data from weather forecasts in multiple regions.",
+        "stack": [
+            "Express",
+            "Node",
+            "Javascript"
+        ],
+        "image": "/images/Prediccions-Backend.jpg",
+        "url": "https://github.com/EZAMN/Prediccio-Backend"},
+        {"title": "BeerFinder",
+            "description": "Frontend project to browse Brewdog beer catalogue.",
+            "stack": [
+                "React",
+                "Redux",
+                "Javascript",
+                "CSS"
+            ],
+            "image": "/images/BeerFinder.jpg",
+            "url": "https://github.com/EZAMN/BeerFinder"},
+        {"title": "Alexismn.com",
+        "description": "This website project done in React.",
+        "stack": [
+            "React",
+            "Node",
+            "Javascript",
+            "CSS"
+        ],
+        "image": "/images/Alexismncom.jpg",
+        "url": "https://github.com/EZAMN/Alexismn.com"}
+    ]
+}

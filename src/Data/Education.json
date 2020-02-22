@@ -1,0 +1,25 @@
+{
+  "title": "Education",
+  "quote": "Our future growth relies on competitiveness and innovation, skills and productivity... and these in turn rely on the education of our people.",
+  "author": "Julia Gillard",
+  "data": [
+    {"title":"Degree in Multimedia", 
+      "place":"Polytechnic University of Catalonia", 
+      "time":"Sep 2012 - Jun 2013", 
+      "description":"An additional year of university expanding on the Multimedia development, focused on software development, newest trends and complex software architectures.", 
+      "loc":{"tag":"Barcelona, Spain","url":"https://goo.gl/maps/oF3FMFr6zGA2"}, 
+      "link":{"tag":"www.citm.upc.edu","url":"http://www.citm.upc.edu"}},
+    {"title":"Wonderware Courses", 
+      "place":"Invensys Wonderware", 
+      "time":"Apr 2011 - Jun 2013", 
+      "description":"Software Development courses based on Databases and back end development and Business Intelligence. It covered SQL Server design and development as well as wonderware software development and architecture: ArchestrA, IDE, InTouch.", 
+      "loc":{"tag":"Barcelona, Spain","url":"https://goo.gl/maps/oF3FMFr6zGA2"}, 
+      "link":{"tag":"software.schneider-electric.com/wonderware","url":"http://software.schneider-electric.com/wonderware"}},
+    {"title":"Bachelor's Degree in Multimedia (Specialization: Programming)", 
+      "place":"Polytechnic University of Catalonia", 
+      "time":"Sep 2004 - Jun 2008", 
+      "description":"The Multimedia degree is a computer science degree specialized in programming languages with additional training in 2D, 3D, video and post production digital content, usability and graphic interfaces, web solutions, mobile applications and interactive virtual environments.", 
+      "loc":{"tag":"Barcelona, Spain","url":"https://goo.gl/maps/oF3FMFr6zGA2"}, 
+      "link":{"tag":"www.citm.upc.edu","url":"http://www.citm.upc.edu"}}
+  ]
+}

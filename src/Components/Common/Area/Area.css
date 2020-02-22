@@ -1,0 +1,35 @@
+.Area:nth-child(even) {
+  background: white;
+}
+
+.Area:last-child {
+  background: rgb(67, 66, 66);
+}
+
+.Area {
+  min-height:70vh; 
+  overflow:hidden;
+}
+
+.Wrapper {
+  max-width: 1280px; 
+  padding: 40px 180px; 
+}
+
+section.Container {
+  padding: 40px 20px;
+  min-height: 80vh;
+  margin: 0 auto;
+}
+
+@media (max-width: 767px) { 
+  .Area { 
+    min-width: 280px; 
+  }
+}
+@media (min-width: 767px){
+  section.Container {
+    max-width: 1280px;
+    padding: 40px 180px;
+  }
+}

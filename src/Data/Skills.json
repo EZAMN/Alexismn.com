@@ -1,0 +1,78 @@
+{
+  "title": "Skills",
+  "quote": "A winner is someone who recognizes his birth-given talents, works his tail off to develop them into skills, and uses these skills to accomplish his goals.",
+  "author": "Larry Bird",
+  "data": [
+    {"title":"Frontend", 
+      "skills":[
+        {"tag":"Javascript","level":5},
+        {"tag":"HTML","level":5},
+        {"tag":"JQuery","level":4},
+        {"tag":"CSS","level":5},
+        {"tag":"React","level":3},
+        {"tag":"XML","level":5},
+        {"tag":"Redux","level":2},
+        {"tag":"JSON","level":5},
+        {"tag":"AngularJS","level":3},
+        {"tag":"LESS","level":3},
+        {"tag":"Vue","level":1},
+        {"tag":"Bootstrap","level":2}
+      ]},
+    {"title":"Backend", 
+      "skills":[
+        {"tag":"Node","level":4},
+        {"tag":"Visual Basic","level":3},
+        {"tag":"Express","level":3},
+        {"tag":"Bash Shell","level":3},
+        {"tag":"Java","level":3},
+        {"tag":"Batch Script","level":3},
+        {"tag":"C#","level":3},
+        {"tag":".Net","level":3},
+        {"tag":"PHP","level":4},
+        {"tag":"Wonderware","level":4}
+      ]},
+    {"title":"Software Architecture", 
+      "skills":[
+        {"tag":"OOP","level":4},
+        {"tag":"M-V-C","level":4},
+        {"tag":"TTD","level":3},
+        {"tag":"Modular Design","level":4},
+        {"tag":"CI / CD","level":3},
+        {"tag":"Business Intelligence","level":2}
+      ]},
+    {"title":"Databases", 
+      "skills":[
+        {"tag":"SQL Server","level":4},
+        {"tag":"MySQL","level":3},
+        {"tag":"Oracle","level":2},
+        {"tag":"PostgreSQL","level":1}
+      ]},
+    {"title":"Design", 
+      "skills":[
+        {"tag":"Adobe Photoshop","level":4},
+        {"tag":"Adobe InDesign","level":3},
+        {"tag":"Adobe Illustrator","level":2},
+        {"tag":"Adobe Premiere","level":3},
+        {"tag":"Adobe After Effects","level":3},
+        {"tag":"3D Studio Max","level":3}
+      ]},
+    {"title":"Tools", 
+      "skills":[
+        {"tag":"SCRUM","level":4},
+        {"tag":"Code Reviews","level":4},
+        {"tag":"Git","level":4},
+        {"tag":"Responsive Design","level":3},
+        {"tag":"Subversion","level":3},
+        {"tag":"Windows","level":5},
+        {"tag":"Linux","level":4},
+        {"tag":"Mac","level":3}
+      ]},
+    {"title":"Languages", 
+      "skills":[
+        {"tag":"Spanish","level":5},
+        {"tag":"English","level":5},
+        {"tag":"Catalan","level":5},
+        {"tag":"French","level":2}
+      ]}
+  ]
+}

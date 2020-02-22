@@ -1,0 +1,22 @@
+a.ribbon { 
+  width: 200px; 
+  background: #6fa20d; 
+  position: fixed; 
+  text-align: center; 
+  line-height: 50px; 
+  letter-spacing: 1px; 
+  box-shadow: 0 0 3px rgba(0,0,0,.3); 
+  top: auto; 
+  bottom: 25px; 
+  left: -50px; 
+  transform: rotate(45deg); 
+  -webkit-transform: rotate(45deg); 
+  z-index:3; 
+  cursor:pointer; 
+  text-decoration: none; 
+  color:#fff; 
+}
+a.ribbon:hover, a.ribbon:active, a.ribbon:visited { 
+  text-decoration: none; 
+  color:#fff; 
+}

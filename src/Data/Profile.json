@@ -1,0 +1,29 @@
+{
+    "title": "Profile",
+    "quote": "Set your goals high and don't stop until you get there.",
+    "author": "Bo Jackson",
+    "src": "/images/alexis_munoz_nieto.png",
+    "altSrc": "Alexis Munoz Nieto",
+    "firstColumn": {
+        "title": "About me",
+        "content": [
+        {"type": "p", "content": "I am a full stack software developer."},
+        {"type": "p", "content": "I am a senior programmer with good knowledge in all the software layers."},
+        {"type": "p", "content": "I love logic, structure, efficiency and I also stand for quality."},
+        {"type": "p", "content": "I love designing software from the ground up, fixing little details and optimizing web apps."},
+        {"type": "p", "content": "Also I believe in teamwork and its benefits, both in a personal and global levels."}
+        ]
+    },
+    "secondColumn": {
+        "title": "Details",
+        "wrapper": "dl",
+        "content": [
+        {"type": "dt", "content": "Name:"},
+        {"type": "dd", "content": "Alexis Munoz Nieto"},
+        {"type": "dt", "content": "Age:"},
+        {"type": "dd", "content": "33 years"},
+        {"type": "dt", "content": "Location:"},
+        {"type": "dd", "content": "Girona, Catalonia"}
+        ]
+    }
+}

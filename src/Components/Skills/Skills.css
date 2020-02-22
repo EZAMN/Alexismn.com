@@ -1,0 +1,35 @@
+.Skills ul.skillgroup{
+    padding:0;
+}
+.Skills ul.skillgroup > li{ 
+    display:block;
+    
+}
+.Skills ul.skillgroup li ul > li { 
+    min-height: 30px; 
+    padding: 3px 20px; 
+}
+.Skills ul.skillgroup li ul > li:hover { 
+    background: #FFFFFF; 
+}
+/*.Skills ul > li .ability-title { display: inline-block; width: 60%; }*/
+.Skills ul.skillgroup li ul > li figure { 
+    float: right; 
+    margin:0;
+}
+.Skills ul.skillgroup li ul > li figure img { 
+    width:16px; height:16px; 
+    vertical-align:sub; 
+    color: #DFE0E0; 
+    font-size: 14px; 
+    margin-right:3px;
+	 
+	-webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.Skills ul.skillgroup li ul > li:hover figure img { 
+    margin-left: 3px; 
+} 

@@ -1,0 +1,41 @@
+header.header .scroll-down {
+  height: 80px;
+  width: 110px;
+  display: block;
+  position: absolute;
+  top:100vh;
+  margin-top:-80px;
+  right: 5%;
+  background-color: #222222;
+  text-align: center;
+  z-index: 6;
+  border-top-right-radius:4px;
+  border-top-left-radius:4px;
+}
+
+header.header .scroll-down img.arrow {
+	color: #FFFFFF;
+	font-size: 30px;
+	padding-top: 15px;
+	margin-top:0;
+	height:60px;
+	width:40px;
+
+	animation-name: wiggle;
+	animation-duration: 1.2s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-direction: normal;
+}
+
+header.header .scroll-down:hover img { padding-top: 25px; }
+
+@media(max-width:767px){
+	header.header .scroll-down {top:95vh;}
+}
+
+@keyframes wiggle {
+	0% { margin-top:0; }
+	50% { margin-top:10px; }
+	100% { margin-top:0; }
+}

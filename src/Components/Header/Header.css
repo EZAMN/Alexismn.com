@@ -1,0 +1,54 @@
+header.header {
+	background: no-repeat center center fixed url('/images/background.jpg');
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/background.jpg', sizingMethod='scale')";
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/background.jpg', sizingMethod='scale');
+
+	margin-bottom: 0px;
+	padding: 0px;
+
+	height:100vh;
+}
+
+header.header .overlay {
+  background-color: #6fa20d;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  opacity: 0.5;
+  filter:alpha(opacity=60);
+  z-index: 2;
+  height:100vh;
+}
+
+header.header .container {
+  position: relative;
+  top: 15%;
+  z-index: 4;
+  text-align: center;
+}
+
+header.header .container > * {
+  text-align: center;
+  color: #FFFFFF;
+}
+
+header.header .container h1 {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #FFFFFF;
+  border-bottom-color: rgba(255,255,255,0.35);
+  display: inline-block;
+  text-shadow: 2px 2px 10px #354b0b;
+}
+
+header.header .container .lead {
+  font-size: 28px;
+  text-shadow: 2px 2px 2px #354b0b;
+}

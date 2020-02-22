@@ -1,0 +1,30 @@
+.Contact { 
+    min-height:95vh; background-color:#434242; 
+}
+.Contact h2, .Contact ul * { 
+    color: #FFFFFF; 
+    cursor:default;
+}
+.Contact a { 
+    display: block; 
+    text-decoration: none;  
+    cursor:pointer;
+}
+.Contact a:hover, .Contact a:active, .Contact a:visited {
+    text-decoration: none;
+    color: #fff;
+}
+.Contact ul li {
+    line-height: 32px; 
+    padding:0px 15px 0px 55px; 
+    margin-bottom: 20px; 
+    opacity: 0.6; 
+    filter:alpha(opacity=60);
+    background-image: url(/images/sm_icon_sprite.png);
+    background-repeat: no-repeat; 
+    height: 32px; 
+}
+.Contact ul li:hover { 
+    opacity: 1; 
+    filter:alpha(opacity=100);  
+}

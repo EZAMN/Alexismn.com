@@ -1,0 +1,15 @@
+{
+    "title": "Contact",
+    "quote": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+    "author": "Carl Jung",
+    "contactMethods": [
+        {"value": "+34 677 821 774",
+        "class": "icone-phone"},
+        {"value": "alexis.munoz.nieto",
+        "class": "icon-skype",
+        "link":"skype:alexis.munoz.nieto"},
+        {"value": "alexismn86@gmail.com",
+        "class": "icon-email",
+        "link":"mailto:alexismn86@gmail.com"}
+    ]
+}

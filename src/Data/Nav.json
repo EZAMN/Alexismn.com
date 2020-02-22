@@ -1,0 +1,11 @@
+{
+    "sections":[
+        "Profile",
+        "Education",
+        "Experience",
+        "Skills",
+        "Projects",
+        "Contact"
+    ],
+    "toggle": "Toggle navigation"
+}
